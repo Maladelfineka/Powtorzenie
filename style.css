@@ -1,3 +1,18 @@
 body {
     background-color: blueviolet;
+    
+}
+
+.mojaklasa {
+    color: rgb(158, 33, 33);
+}
+
+#p {
+    background-color: azure;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    background-color: aliceblue;
 }
